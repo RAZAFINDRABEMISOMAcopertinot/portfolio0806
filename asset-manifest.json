@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Coperty_portfolio/static/css/main.a4aa7393.css",
+    "main.js": "/Coperty_portfolio/static/js/main.cf953dc2.js",
+    "static/js/453.8c17491e.chunk.js": "/Coperty_portfolio/static/js/453.8c17491e.chunk.js",
+    "static/media/CV_DEV_ENG.pdf": "/Coperty_portfolio/static/media/CV_DEV_ENG.f0e4fd9af0f88fb4b1e9.pdf",
+    "static/media/bg1.gif": "/Coperty_portfolio/static/media/bg1.41061faf05d037e18138.gif",
+    "static/media/tourisme.png": "/Coperty_portfolio/static/media/tourisme.0f5f9962651f4861f1a9.png",
+    "static/media/mybeedoo.png": "/Coperty_portfolio/static/media/mybeedoo.9bf1f1897c21856b6b26.png",
+    "static/media/petite annonce.png": "/Coperty_portfolio/static/media/petite annonce.c74aa9bd29ad80818f55.png",
+    "static/media/mp-mb.png": "/Coperty_portfolio/static/media/mp-mb.7abadabb62a54fcb4cc8.png",
+    "static/media/labotikatsika.png": "/Coperty_portfolio/static/media/labotikatsika.8429dd962fe49eaaaee0.png",
+    "static/media/wave_hii.gif": "/Coperty_portfolio/static/media/wave_hii.b707317f672c167912b3.gif",
+    "static/media/boltAni.gif": "/Coperty_portfolio/static/media/boltAni.38f468a5ecf2891dbb17.gif",
+    "static/media/logo.png": "/Coperty_portfolio/static/media/logo.2be8b8afcaee47add393.png",
+    "index.html": "/Coperty_portfolio/index.html",
+    "main.a4aa7393.css.map": "/Coperty_portfolio/static/css/main.a4aa7393.css.map",
+    "main.cf953dc2.js.map": "/Coperty_portfolio/static/js/main.cf953dc2.js.map",
+    "453.8c17491e.chunk.js.map": "/Coperty_portfolio/static/js/453.8c17491e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4aa7393.css",
+    "static/js/main.cf953dc2.js"
+  ]
+}
