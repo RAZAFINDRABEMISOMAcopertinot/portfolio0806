@@ -1,0 +1,8 @@
+name = "optimizely-cloudflare-template"
+type = "webpack"
+
+account_id = "6e8bd5facf48dfb4d8fd8bba544368c9"
+workers_dev = true
+route = "portfolio.com"
+zone_id = "8581c9c57bdbb7cfd32778a41771a49b"
+webpack_config = "webpack.config.js"
